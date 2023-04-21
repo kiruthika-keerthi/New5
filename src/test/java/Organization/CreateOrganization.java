@@ -72,7 +72,7 @@ public class CreateOrganization {
 		driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
 		driver.findElement(By.xpath("//a[.='Sign Out']")).click();
 		driver.close();
-
+//testing purpose via gitbash
 
 	}
 
